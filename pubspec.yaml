@@ -1,0 +1,4 @@
+name: dart2js_size
+description: A sample web application
+dependencies:
+  browser: any
