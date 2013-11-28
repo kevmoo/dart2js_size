@@ -2,3 +2,5 @@ name: dart2js_size
 description: A sample web application
 dependencies:
   browser: any
+dev_dependencies:
+  hop: '>=0.27.1'
