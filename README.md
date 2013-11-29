@@ -49,7 +49,9 @@ void main() {
 ### Notes
 
  * One import
- * Using query method and element property.
+ * Using query method, element property, and...
+ * `StringBuffer`
+ * DOM events
 
 ## 3: Dart Editor "New web Application"
 
