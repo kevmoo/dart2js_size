@@ -4,6 +4,7 @@
 
  * All file sizes are in bytes
  * Dart VM 1.0.1.3 r30657
+ * [Raw data](https://docs.google.com/spreadsheet/pub?key=0AmnQApvDdKKpdE1LS0ozeXVZTkJsNFRmc1NneEtiZ2c&single=true&gid=0&output=html)
 
 ## 1: Print "Hello, World!"
 
